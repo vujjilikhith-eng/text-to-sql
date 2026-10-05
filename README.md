@@ -1,4 +1,5 @@
 # Ask Your Database: text-to-SQL app
+https://text-to-sql-chvy38uy3rinfca5rkkdqk.streamlit.app/
 
 Type a question in plain English and get the answer from your database as a table. No SQL needed.
 
