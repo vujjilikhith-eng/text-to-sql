@@ -71,4 +71,15 @@ Python, Streamlit, SQLAlchemy, Google Gemini API, SQLite / MySQL / PostgreSQL
 
 ## Accuracy
 
-*Test results will be added here.*
+Tested on 20 questions against the demo database (5 simple, 5 aggregations, 5 multi-table joins, 5 tricky).
+
+| Category | Correct |
+|---|---|
+| Simple | x / 5 |
+| Aggregations | x / 5 |
+| Joins | x / 5 |
+| Tricky | x / 5 |
+| **Total** | **x / 20** |
+
+Common mistakes: (a short note on what went wrong)
+
